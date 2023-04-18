@@ -1,1 +1,2 @@
 # Iris-Species
+Iris is a genus of flowering plants with over 300 species. They have beautiful, showy flowers with three outer petals called "falls" and three inner petals called "standards." Some popular species include the bearded iris, Siberian iris, and Japanese iris. They have unique characteristics and growing requirements. Some iris species have medicinal properties such as the Iris germanica, which has anti-inflammatory and anti-cancer properties. The iris is also known for its symbolism, representing hope, courage, and wisdom in various cultures around the world.
